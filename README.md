@@ -63,6 +63,26 @@ max      2.970000e+07
 Name: Instagram, dtype: float64
 ```
 
+| Columns | Description |
+|--- | ---|
+|fighter_name | Name of the fighter |
+|Height | Height in inches |
+|Reach | Figher arm lenght |
+|Stance| Sauthpaw if fighter is left handed, orthodox if is right handed|
+|DOB| Date of Birth |
+
+Before we dive into more details, we have to some common concept related to data analytics.
+We can split the data types into three main categories: 
+
+| Data Type | Explanation |
+|---|---|
+|Numerical | Integer/Float numbers(3.7;7,3) etc|
+|Categorical| Data can be split into chategories; ex Southpaw/Orthodox)|  
+|Ordinal | data is categorical, but can be measured (tall vs small; fat vs skinny)|
+
+
+A distinction must be made between the sample and the population. A population from an analytics standpoint refers to all the elements from a set of data. A sample refers to a group of data, a subset of the data. 
+The term population does not have a census connotation. We might have mice, engines, movies, cars. Specific to our data set, a sample data might be champion fighters, southpaw fighters.
 
 PPV and attendance:
 * https://data.world/atseng92/ufc-disclosed-ppv-and-attendance-data-1993-2017
