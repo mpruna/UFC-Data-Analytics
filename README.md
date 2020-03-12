@@ -1,4 +1,19 @@
-v# UFC-Data-Analytics
+# UFC-Data-Analytics
+
+### Project Structure
+
+```
+├── datasets
+│   ├── UFC_PPV_Data.xlsx
+│   └── UFC_Social.xlsx
+├── README.md
+├── read_ufc_data.ipynb
+└── ufcdata
+    ├── data.csv
+    ├── preprocessed_data.csv
+    ├── raw_fighter_details.csv
+    └── raw_total_fight_data.csv
+```
 
 Analytics on UFC data provided by OpenData. There is another UFC dataset on Kaggle.
 ATM checking dataset from OpenData
