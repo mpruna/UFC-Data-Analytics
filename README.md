@@ -3,7 +3,7 @@
 ### Project Structure
 
 ```
-├── datasets
+└── datasets
 │   ├── UFC_PPV_Data.xlsx
 │   └── UFC_Social.xlsx
 ├── README.md
