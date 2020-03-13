@@ -1,5 +1,11 @@
 # UFC-Data-Analytics
 
+![IMG](Images/newplot(1).png)
+![IMG](Images/newplot(2).png)
+![IMG](Images/newplot(3).png)
+![IMG](Images//newplot(4).png)
+
+
 ### Project Structure
 
 ```
