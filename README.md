@@ -90,6 +90,23 @@ We can split the data types into three main categories:
 A distinction must be made between the sample and the population. A population from an analytics standpoint refers to all the elements from a set of data. A sample refers to a group of data, a subset of the data. 
 The term population does not have a census connotation. We might have mice, engines, movies, cars. Specific to our data set, a sample data might be champion fighters, southpaw fighters.
 
+### Upgrade Plotly
+
+New plotly version is available:
+
+Refs:
+* https://community.plotly.com/t/announcing-plotly-py-4-8-plotly-express-support-for-wide-and-mixed-form-data-plus-a-pandas-backend/40048
+* 
+
+```
+conda update plotly
+pip install -U plotly
+```
+### Supported methods:
+```
+The Plotly backend supports the following kinds of Pandas plots: scatter, line, area, bar, barh, hist and box, via the call pattern df.plot(kind='scatter') or df.plot.scatter(). These delegate to the corresponding Plotly Express functions.
+```
+
 PPV and attendance:
 * https://data.world/atseng92/ufc-disclosed-ppv-and-attendance-data-1993-2017
 
