@@ -94,6 +94,10 @@ The term population does not have a census connotation. We might have mice, engi
 
 New plotly version is available:
 
+Refs:
+* https://community.plotly.com/t/announcing-plotly-py-4-8-plotly-express-support-for-wide-and-mixed-form-data-plus-a-pandas-backend/40048
+* 
+
 ```
 conda update plotly
 pip install -U plotly
